@@ -13,3 +13,7 @@ Made in order not to explain to lazy people
 #### MYSQL recipes
 
 - 
+
+### NGINX recipes
+
+- [PWA on NGINX sever](https://vite-pwa-org.netlify.app/deployment/nginx.html)
