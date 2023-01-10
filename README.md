@@ -18,13 +18,7 @@ Made in order not to explain to lazy people
 
 - 
 
-#### PWA (laravel)
+#### PWA (laravel-vue-vite)
 
-- [PWA on NGINX sever](https://vite-pwa-org.netlify.app/deployment/nginx.html)
+- [PWA on NGINX sever](PWA-laravel/index.md)
 
-up path for sw.js
-```
-location /build/sw.js {
-    add_header 'Service-Worker-Allowed' '/';
-}
-```
