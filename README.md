@@ -4,7 +4,7 @@ Made in order not to explain to lazy people
 
 #### SERVER recipes
 
-- [install of update php in ngix server](server/php-fpm.md)
+- [install of update php in nginx server](server/php-fpm.md)
 
 #### PHP recipes
 
