@@ -22,3 +22,6 @@ Made in order not to explain to lazy people
 
 - [PWA on NGINX sever](PWA-laravel/index.md)
 
+#### GIT
+
+- [new instance on server](git/index.md)
