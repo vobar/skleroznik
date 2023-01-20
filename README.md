@@ -2,19 +2,19 @@
 
 Made in order not to explain to lazy people
 
-#### SERVER recipes
+#### SERVER
 
 - [install of update php in nginx server](server/php-fpm.md)
 
-#### PHP recipes
+#### PHP
 
 - 
 
-#### MYSQL recipes
+#### MYSQL
 
 - 
 
-#### NGINX recipes
+#### NGINX
 
 - 
 
@@ -25,3 +25,8 @@ Made in order not to explain to lazy people
 #### GIT
 
 - [new instance on server](git/index.md)
+
+#### LARAVEL
+
+- [create new user](laravel/index.md)
+
