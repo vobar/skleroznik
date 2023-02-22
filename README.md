@@ -30,3 +30,7 @@ Made in order not to explain to lazy people
 
 - [create new user](laravel/index.md)
 
+#### websockets
+
+- [websockets laravel-pusher](ws/index.md)
+
