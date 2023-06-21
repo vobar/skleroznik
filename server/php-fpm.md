@@ -6,6 +6,14 @@ sudo apt update
 sudo apt upgrade
 ```
 
+### add php packs for http://ppa.launchpad.net/ondrej/php/ubuntu focal/
+
+```bash
+sudo apt update
+sudo apt install lsb-release ca-certificates apt-transport-https software-properties-common -y
+sudo add-apt-repository ppa:ondrej/php
+```
+
 ### install php 8.1 packages from http://ppa.launchpad.net/ondrej/php/ubuntu focal/
 
 ```
